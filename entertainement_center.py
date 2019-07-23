@@ -30,7 +30,7 @@ eternal_sunshine_of_the_spotless_mind = media.Movie ("Eternal Sunshine of the Sp
 crossroads = media.Movie ("Crossroads",
                           "A kid who can make a slide guitar sing. An old pro who knows it. Together, they're headed to a place where deals are made.",
                           "https://m.media-amazon.com/images/M/MV5BMDg3MmVmNmUtMzI4NC00NDY1LTg5YTAtMDJiODJlNmM0MTAwXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SY1000_CR0,0,667,1000_AL_.jpg",
-                          "https://www.youtube.com/watch?v=OJNl7If64Xg")
+                          "https://www.youtube.com/watch?v=JAH3G1ZSCR8")
 
 
 fear_and_loathing_in_las_vegas = media.Movie ("Fear and Loathing in Las Vegas",
