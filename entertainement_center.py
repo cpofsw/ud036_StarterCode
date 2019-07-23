@@ -1,7 +1,7 @@
 #Chama o arquivo que transforma a lista de filmes em um website.
 import fresh_tomatoes
 
-#Chama o arquivo que contem a class Movie e seus métodos.
+#Chama o arquivo que contem a class Movie e seus metodos.
 import media
 
 #Lista dos objetos Movie:

@@ -9,7 +9,7 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
-    #Define método de chamada para mostrar os trailers.
+    #Define metodo de chamada para mostrar os trailers.
     
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
