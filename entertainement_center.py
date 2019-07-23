@@ -11,7 +11,7 @@ arrival = media.Movie ("Arrival",
                        "https://www.youtube.com/watch?v=tFMo3UJ4B4g")
 
 
-lucky_number_sleven = media.Movie ("Lucky Number Sleven",
+lucky_number_slevin = media.Movie ("Lucky Number Slevin",
                          "A case of mistaken identity lands Slevin into the middle of a war",
                          "https://m.media-amazon.com/images/M/MV5BMTk0OTAzMDM1N15BMl5BanBnXkFtZTcwNjczMTkwOA@@._V1_.jpg",
                          "https://www.youtube.com/watch?v=fVIUEcizkPc")
@@ -41,6 +41,6 @@ fear_and_loathing_in_las_vegas = media.Movie ("Fear and Loathing in Las Vegas",
 
 #Chama o metodo fresh_tomatoes.open_movies_page que usa a lista de filmes para
 #gerar o website de trailers.
-movies = [arrival, lucky_number_sleven, the_jacket, eternal_sunshine_of_the_spotless_mind, crossroads, fear_and_loathing_in_las_vegas]
+movies = [arrival, lucky_number_slevin, the_jacket, eternal_sunshine_of_the_spotless_mind, crossroads, fear_and_loathing_in_las_vegas]
 fresh_tomatoes.open_movies_page(movies)
                         
