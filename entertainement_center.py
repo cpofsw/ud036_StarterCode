@@ -39,7 +39,7 @@ fear_and_loathing_in_las_vegas = media.Movie ("Fear and Loathing in Las Vegas",
                                               "https://www.youtube.com/watch?v=8m662obIvhY")
 
 
-#Chama o método fresh_tomatoes.open_movies_page que usa a lista de filmes para
+#Chama o metodo fresh_tomatoes.open_movies_page que usa a lista de filmes para
 #gerar o website de trailers.
 movies = [arrival, lucky_number_sleven, the_jacket, eternal_sunshine_of_the_spotless_mind, crossroads, fear_and_loathing_in_las_vegas]
 fresh_tomatoes.open_movies_page(movies)
