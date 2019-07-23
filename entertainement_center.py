@@ -36,7 +36,7 @@ crossroads = media.Movie ("Crossroads",
 fear_and_loathing_in_las_vegas = media.Movie ("Fear and Loathing in Las Vegas",
                                               "An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.",
                                               "https://m.media-amazon.com/images/M/MV5BNjA2ZDY3ZjYtZmNiMC00MDU5LTgxMWEtNzk1YmI3NzdkMTU0XkEyXkFqcGdeQXVyNjQyMjcwNDM@._V1_.jpg",
-                                              "https://www.youtube.com/watch?v=8m662obIvhY")
+                                              "https://www.youtube.com/watch?v=tnvJ5xtZpi0")
 
 
 #Chama o metodo fresh_tomatoes.open_movies_page que usa a lista de filmes para
