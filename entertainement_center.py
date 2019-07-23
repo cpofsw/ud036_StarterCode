@@ -24,7 +24,7 @@ the_jacket = media.Movie ("The Jacket",
 eternal_sunshine_of_the_spotless_mind = media.Movie ("Eternal Sunshine of the Spotless Mind",
                                                      "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
                                                      "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-                                                     "https://www.youtube.com/watch?v=yE-f1alkq9I")
+                                                     "https://www.youtube.com/watch?v=07-QBnEkgXU")
 
 
 crossroads = media.Movie ("Crossroads",
