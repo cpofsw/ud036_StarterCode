@@ -1,12 +1,15 @@
+#Chama o arquivo que transforma a lista de filmes em um website.
 import fresh_tomatoes
+
+#Chama o arquivo que contem a class Movie e seus métodos.
 import media
 
+#Lista dos objetos Movie:
 arrival = media.Movie ("Arrival",
                        "Aliens come to earth. Why they are here?",
                        "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg",
                        "https://www.youtube.com/watch?v=tFMo3UJ4B4g")
-#print(arrival.storyline)
-#arrival.show_trailer()
+
 
 lucky_number_sleven = media.Movie ("Lucky Number Sleven",
                          "A case of mistaken identity lands Slevin into the middle of a war",
@@ -35,6 +38,9 @@ fear_and_loathing_in_las_vegas = media.Movie ("Fear and Loathing in Las Vegas",
                                               "https://m.media-amazon.com/images/M/MV5BNjA2ZDY3ZjYtZmNiMC00MDU5LTgxMWEtNzk1YmI3NzdkMTU0XkEyXkFqcGdeQXVyNjQyMjcwNDM@._V1_.jpg",
                                               "https://www.youtube.com/watch?v=8m662obIvhY")
 
+
+#Chama o método fresh_tomatoes.open_movies_page que usa a lista de filmes para
+#gerar o website de trailers.
 movies = [arrival, lucky_number_sleven, the_jacket, eternal_sunshine_of_the_spotless_mind, crossroads, fear_and_loathing_in_las_vegas]
 fresh_tomatoes.open_movies_page(movies)
                         
